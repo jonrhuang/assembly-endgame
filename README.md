@@ -1,5 +1,5 @@
-# "React Facts" Static Page
-Static page I created while I learn React
+# Assembly: Endgame
+Hangman-like game. Guess letters to discover the hidden word. Each incorrect guess snaps a programming language out of existence until only Assembly language is left. Discover the hidden word and save programming languages from being destroyed.
 
 ## Tech Stack
 - **Vite**
@@ -10,11 +10,13 @@ Static page I created while I learn React
 ---
 ## Project Structure
 ```
-react-facts/
+assembly-endgame/
 ├── public/
 ├── src/
 │ ├── assets/
 │ ├── components/
+│ ├── hooks/
+│ ├── utils/
 │ ├── App.jsx
 │ ├── index.css
 │ └── main.jsx
