@@ -8,7 +8,6 @@ import LetterElements from "./components/LetterElements"
 import SRSection from "./components/SRSection"
 import KeyboardElements from "./components/KeyboardElements"
 import NewGameButton from "./components/NewGameButton"
-import "./App.css"
 
 function App() {
   const {
