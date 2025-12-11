@@ -32,17 +32,20 @@ assembly-endgame/
 ### Main Dependencies
 - **react** - 19.1.1
 - **react-dom** - 19.1.1
+- **react-use** - 17.6.0
+- **clsx** - 2.1.1
+- **react-confetti** - 6.4.0
 
 ### Dev Dependencies
-- **vite** - 7.0.6
-- **@vitejs/plugin-react** - 4.7.0
-- **eslint** - 9.32.0
-- **@eslint/js** - 9.32.0
+- **vite** - 7.1.7
+- **@vitejs/plugin-react** - 5.0.4
+- **eslint** - 9.36.0
+- **@eslint/js** - 9.36.0
 - **eslintj-plugin-react-hooks** - 5.2.0
-- **esline-plugin-react-refresh** - 0.4.20
-- **globals** - 16.3.0
-- **@types/react** - 19.1.9
-- **@types/react-dom** - 19.1.7
+- **esline-plugin-react-refresh** - 0.4.22
+- **globals** - 16.4.0
+- **@types/react** - 19.1.16
+- **@types/react-dom** - 19.1.9
 
 
 ## Running & Building
