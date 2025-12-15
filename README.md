@@ -1,10 +1,10 @@
 # Assembly: Endgame
-Hangman-like game. Guess letters to discover the hidden word. Each incorrect guess snaps a programming language out of existence until only Assembly language is left. Discover the hidden word and save programming languages from being destroyed.
+Hangman-like game. Guess letters to discover the hidden word. Each incorrect guess snaps a programming language out of existence until only Assembly language is left. Discover the hidden word and save programming languages from being destroyed. Following Scrimba "Learn React" course
 
 ## Tech Stack
 - **Vite**
 - **JavaScript**
-- **Framework**: React
+- **Library**: React
 - **Package Manager**: npm
 
 ---
